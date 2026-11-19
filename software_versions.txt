@@ -1,0 +1,7 @@
+Python: 3.13.18
+Biopython: 1.88
+Pandas: 2.2.3
+Matplotlib: 3.10.0
+Seaborn: 0.13.2
+Requests: 2.32.4
+Clustal Omega: 1.2.4

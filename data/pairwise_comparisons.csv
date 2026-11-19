@@ -1,0 +1,11 @@
+Animal 1,Animal 2,Matching positions,Compared positions,Percent identity
+Human,Chimpanzee,147,147,100.0
+Human,Cow,122,145,84.13793103448276
+Human,Sheep,119,145,82.06896551724138
+Human,Chicken,102,147,69.38775510204081
+Chimpanzee,Cow,122,145,84.13793103448276
+Chimpanzee,Sheep,119,145,82.06896551724138
+Chimpanzee,Chicken,102,147,69.38775510204081
+Cow,Sheep,135,145,93.10344827586206
+Cow,Chicken,92,145,63.44827586206897
+Sheep,Chicken,95,145,65.51724137931035
